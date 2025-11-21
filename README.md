@@ -37,6 +37,24 @@ cd ros2_ws/src
 ```
 
 Clone This repository:
+```bash
+https://github.com/Glbaymax37/UTS-Turtlebot4-MultiPoint.git
+```
+
+Build Using
+```bash
+cd ../
+colcon build
+source install/setup.bash
+```
+
+Running Program
+```bash
+ros2 run abdi_pkg abdinode
+```
+
+# DEMO Video
+
 
 
 
