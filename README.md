@@ -1,4 +1,4 @@
-# UTS-Turtlebot4-MultiPoint
+# UTS-Turtlebot4-MultiPoint-Navigation
 RE702 Midterm Exam 4222201043 Ricard Riovaldo Simatupang RE 7B Pagi
 
 
